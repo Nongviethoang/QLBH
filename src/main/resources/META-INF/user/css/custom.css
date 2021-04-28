@@ -1,0 +1,121 @@
+.table>thead>tr>th {
+	width: 100px;
+	height: 5 0px;
+	text-align: center;
+}
+
+.table>tbody>tr>td {
+	width: 100px;
+}
+
+.table>tbody>tr>td:first-child {
+	width: 50px;
+}
+
+.table>tbody>tr>td:last-child {
+	width: 50px;
+}
+
+.table>thead>tr>th:first-child {
+	width: 5px;
+}
+
+.table>thead>tr>th:last-child {
+	width: 50px;
+}
+.sort-price{
+	display: flex;
+    padding: 20px 0px;
+}
+.sort-price li
+{
+	padding: 0 20px;
+    width: 150px;
+    text-align: center;
+}
+.sort-price li a{
+	display: block;
+    width: 150px;
+}
+/* * {box-sizing:border-box}
+thiết lập style cho slideshow container
+ .slideshow-container {
+   max-width: 470px;
+   position: relative;
+   margin: auto;
+ }
+ẩn hình ảnh cho phần tử slideshow
+ .mySlides {
+   display: none;
+   padding: 10px;
+ }
+thiết kế nút mũi tên
+ .prev, .next {
+   cursor: pointer;
+   position: absolute;
+   top: 50%;
+   width: auto;
+   margin-top: -22px;
+   padding: 16px;
+   color: white;
+   font-weight: bold;
+   font-size: 18px;
+   transition: 0.6s ease;
+   border-radius: 0 3px 3px 0;
+   user-select: none;
+ }
+thiết kế nút mũi tên next nằm phía bên phải
+ .next {
+   right: 0;
+   border-radius: 3px 0 0 3px;
+ }
+hiệu ứng thay đổi background khi hover vào nút mũi tên
+ .prev:hover, .next:hover {
+   background-color: rgba(0,0,0,0.8);
+ }
+Thiết lập style cho nội dung của mỗi phần tử slideshow
+ .text {
+   color: #f2f2f2;
+   font-size: 15px;
+   padding: 8px 12px;
+   position: absolute;
+   bottom: 8px;
+   width: 100%;
+   text-align: center;
+ }
+Thiết lập style cho số hiển thị của phần tử
+ .numbertext {
+   color: #f2f2f2;
+   font-size: 12px;
+   padding: 8px 12px;
+   position: absolute;
+   top: 0;
+ }
+thiết lập style  nút tròn điều khiển
+ .dot {
+   cursor: pointer;
+   height: 100px;
+   width: 50px;
+   margin: 0 2px;
+   border-radius: 50%;
+   display: inline-block;
+   transition: background-color 0.6s ease;
+ }
+.active1, .dot:hover {
+   background-color: #ffffff;
+ }
+tạo hiệu ứng chuyển động fade
+ .fade1 {
+   -webkit-animation-name: fade;
+   -webkit-animation-duration: 1.5s;
+   animation-name: fade;
+   animation-duration: 1.5s;
+ }
+@-webkit-keyframes fade {
+   from {opacity: .4}
+   to {opacity: 1}
+ }
+@keyframes fade {
+   from {opacity: .4}
+   to {opacity: 1}
+ } */
